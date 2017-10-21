@@ -2,11 +2,11 @@
 
 learn [pusher](https://pusher.com)
 
-## Run Client Client
+## Run Client
 
 https://jsbin.com/modutol/edit?html,js,output
 
-### Server troggered event
+### Server triggered event
 
 ```sh
 node index.js
